@@ -24,3 +24,6 @@ https://www.kaggle.com/datasets/yashwanthkumarmn/motorcycles-in-india?tags=13208
 - A velocidade máxima alcançada pela moto tem influência no preço?
 - O peso tem influência no preço?
 - O tipo da moto tem influência no preço?
+
+### Como executar o código
+Você pode acessar no video do youtube: https://youtu.be/-CNEmZLfQRs
