@@ -26,4 +26,4 @@ https://www.kaggle.com/datasets/yashwanthkumarmn/motorcycles-in-india?tags=13208
 - O tipo da moto tem influência no preço?
 
 ### Como executar o código
-Você pode acessar no video do youtube: https://youtu.be/-CNEmZLfQRs
+Você pode acessar no video do youtube: https://youtu.be/p8ShvB4RNZI
